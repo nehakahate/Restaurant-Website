@@ -63,3 +63,9 @@ tab-content {
 .carousel-caption h2{
     margin-left: 300px;
 }
+#carouselButtons {
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+    z-index: 1;
+}
